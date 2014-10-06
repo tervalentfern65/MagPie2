@@ -7,7 +7,7 @@
  * 		    Handles responding to simple words and phrases 
  * </li></ul>
  * This version uses a nested if to handle default responses.
- * @author Laurie White
+ * @author Laurie White, Joey Moser and Dominick Fisher
  * @version April 2012
  */
 public class Magpie2
