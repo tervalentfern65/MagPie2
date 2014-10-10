@@ -57,7 +57,7 @@ public class Magpie2
         }
         else if (statement.trim().length() <1)
         {
-            response = "wut";
+            response = "Say something, please";
         }
 		{
 			response = getRandomResponse();
@@ -92,7 +92,7 @@ public class Magpie2
 		{
 			response = "You don't say.";
 		}
-
+        else if (whichResponse == 4)
 		return response;
 	}
 }
